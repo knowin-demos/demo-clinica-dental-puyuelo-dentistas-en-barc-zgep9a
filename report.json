@@ -1,0 +1,104 @@
+{
+  "empresa": "Clínica Dental Puyuelo: Dentistas en Barcelona",
+  "web": "https://clinicapuyuelo.es",
+  "sector": "salud",
+  "builder": "elementor",
+  "fecha": "2026-04-25T06:55:51.171Z",
+  "templateVersion": "v4-ai-personalized",
+  "aiModel": "claude-haiku-4.5",
+  "aiCost": "~$0.01",
+  "cssPersonalized": true,
+  "cssSelectorsUsed": {
+    "sections": [
+      "microwidget-btn",
+      "mini-button",
+      "header-elements-button-1",
+      "header-elements-button-2",
+      "sub-nav"
+    ],
+    "cards": [
+      "wpcf7-list-item",
+      "wpcf7-list-item-label",
+      "masthead",
+      "inline-header",
+      "right"
+    ],
+    "buttons": [
+      "wpcf7-form-control",
+      "wpcf7-submit",
+      "has-spinner",
+      "home",
+      "wp-singular"
+    ],
+    "nav": [
+      "home",
+      "wp-singular",
+      "page-template-default",
+      "masthead",
+      "inline-header"
+    ]
+  },
+  "siteAnalysis": {
+    "builder": "elementor",
+    "fonts": [
+      "inherit !important",
+      "Open Sans",
+      "var(--font-family) !important}.wpml-ls-flag{display:inline-block}.wpml-ls-flag-style-btn{border:0px transparent",
+      "SF Pro Text",
+      "-apple-system"
+    ],
+    "colors": [
+      "rgba(0,0,0,.25)",
+      "rgba(0,0,0,.2)",
+      "#555",
+      "#ddd",
+      "#bbb"
+    ],
+    "hasStickyHeader": false,
+    "hasTestimonials": true,
+    "hasSlider": true,
+    "hasGallery": true,
+    "imgCount": 31,
+    "formCount": 5
+  },
+  "improvements": [
+    "URLs relativas → absolutas (base: https://clinicapuyuelo.es)",
+    "CSS personalizado generado por IA (selectores reales del sitio)",
+    "Banner demo + barra de progreso",
+    "8 imgs lazy loading",
+    "Bunny Fonts (GDPR)"
+  ],
+  "wowEffects": [
+    "Scroll reveal — Secciones aparecen con animación",
+    "Hover premium en tarjetas — Elevación + sombra branded",
+    "Botones mejorados — Elevación, escala y press al click",
+    "Zoom suave en imágenes — Efecto magazine al hover",
+    "Glassmorphism en header — Vidrio esmerilado al scrollear",
+    "Formularios premium — Glow branded al focus",
+    "Tipografía mejorada — Letter-spacing, antialiasing",
+    "Reseñas mejoradas — Hover elevación + borde color",
+    "Selección texto branded — Color de la marca",
+    "Separador gradient en footer — Línea decorativa",
+    "Sombras premium — Multicapa naturales",
+    "Transiciones globales — Todo suave",
+    "Links underline animado — Crece al hover",
+    "Skeleton loading — Shimmer mientras cargan",
+    "Barra progreso scroll — Gradient fija arriba",
+    "WhatsApp flotante — Pulso + glow",
+    "Banner demo — Propuesta profesional",
+    "Font rendering premium — Antialiased"
+  ],
+  "preservedContent": "HTML original 100% intacto",
+  "extractedData": {
+    "phone": "+34 934 87 69 60",
+    "email": "info@clinicapuyuelo.es",
+    "address": "Passatge de Permanyer, 15, 08009, Barcelona",
+    "jsonLdFound": true
+  },
+  "performance": {
+    "lazyLoading": 8,
+    "webpConversion": 0,
+    "fontOptimization": "bunny-fonts",
+    "trackingRemoved": true
+  }
+}

@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /
+
+# Allow AI bots to index demo content
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
